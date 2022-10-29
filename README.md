@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Felipe and i'm 18y old.
 
