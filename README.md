@@ -8,4 +8,6 @@
 
 ### 🔧 Skills:
 - MVC
+- VIPER
 - MVVM
+- UITests
